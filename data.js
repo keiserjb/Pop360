@@ -564,7 +564,7 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.5868660634258482,
+          "yaw": -1.6868660634258482,
           "pitch": 0.24011951796704345,
           "rotation": 0,
           "target": "23-pop24-final"
