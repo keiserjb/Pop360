@@ -1701,7 +1701,7 @@ var APP_DATA = {
   "name": "POP - Perceptions of Poverty Virtual Tour",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": false,
+    "autorotateEnabled": true,
     "fullscreenButton": true,
     "viewControlButtons": true
   }
