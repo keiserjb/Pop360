@@ -24,35 +24,35 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "yaw": 2.8345445501571005,
-        "pitch": -0.027617432506719553,
-        "fov": 1.3715802068843215
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 2.640183263038433,
-          "pitch": 0.25893375349179415,
+          "yaw": 2.6823393088852505,
+          "pitch": 0.23729427001763526,
           "rotation": 0,
           "target": "1-pop02-final"
         },
         {
-          "yaw": -0.12819060326585507,
-          "pitch": 0.2884027833784959,
+          "yaw": -0.059911616246299815,
+          "pitch": 0.30707326510100685,
           "rotation": 0,
           "target": "30-pop31-final"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -2.7562195287522773,
-          "pitch": -0.35305768766638046,
+          "yaw": -2.94324135273164,
+          "pitch": -0.2714971905536281,
           "title": "POP - Perceptions of Poverty",
-          "text": "<i>POP: Perceptions of Poverty</i> explores the inequities in education, health, food, housing and transportation associated with poverty. This collaboration of artists and solution-seeking organizations challenges stereotypes, increases understanding, and brings communities together to co-create solutions."
+          "text": "This exhibit&nbsp;explores the inequities in education, health, food, housing and transportation associated with poverty. This collaboration of artists and solution-seeking organizations challenges stereotypes, increases understanding, and brings communities together to co-create solutions."
         },
         {
-          "yaw": -0.1898398806060655,
-          "pitch": 0.0798180985643615,
-          "title": "The exhibit continues upstairs.",
+          "yaw": -0.13554640731568846,
+          "pitch": -0.07595050902116185,
+          "title": "The exhibit continues upstairs",
           "text": "We also have galleries on the second and third floor."
         }
       ]
@@ -81,26 +81,26 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "yaw": -1.7572566038072335,
-        "pitch": 0.09131482932001589,
+        "yaw": -2.214291723502324,
+        "pitch": 0.2121182735163316,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": 1.5866616738832873,
-          "pitch": 0.580661086830208,
+          "yaw": 1.6150500253000226,
+          "pitch": 0.375272052082833,
           "rotation": 0,
           "target": "0-pop01-final"
         },
         {
-          "yaw": 3.114693037328486,
-          "pitch": 0.49130051395854224,
+          "yaw": 3.108814783482595,
+          "pitch": 0.3058197970466381,
           "rotation": 0,
           "target": "2-pop03-final"
         },
         {
-          "yaw": -1.4101964283029904,
-          "pitch": 0.29610799097188334,
+          "yaw": -1.4360786424260148,
+          "pitch": 0.31309538433960604,
           "rotation": 0,
           "target": "16-pop17-final"
         }
@@ -131,48 +131,42 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "yaw": 1.5972817541226956,
-        "pitch": 0.14516045608817052,
+        "yaw": 1.6165136930135882,
+        "pitch": 0.1421164308611509,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": 1.5624101235343488,
-          "pitch": 0.38032764438923294,
-          "rotation": 0,
-          "target": "3-pop04-final"
-        },
-        {
-          "yaw": -1.5310910504258004,
-          "pitch": 0.44109569137940596,
+          "yaw": -1.4813868795117138,
+          "pitch": 0.353227134832764,
           "rotation": 0,
           "target": "1-pop02-final"
         },
         {
-          "yaw": 3.0688389316907427,
-          "pitch": 0.32260268753692856,
+          "yaw": -3.12766353340211,
+          "pitch": 0.33897890032925915,
           "rotation": 0,
           "target": "18-pop19-final"
+        },
+        {
+          "yaw": 1.5374135560979196,
+          "pitch": 0.3993369111590912,
+          "rotation": 0,
+          "target": "3-pop04-final"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -0.7595593134358971,
-          "pitch": -0.22207718676077448,
-          "title": "James Fahye - Part 1",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:\nArial;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;\nmso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;\nmso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">In my\nwork I seek to reveal the unique elements of Jacksonville’s highway\ninfrastructure in their purest form, separated from their various social and\neconomic connotations. Through painting, I seek to draw attention to the objects\nthemselves instead of just contemplating their functional purpose.&nbsp;</span><br></p>"
-        },
-        {
-          "yaw": 0.4094306932209051,
-          "pitch": -0.3561013478749935,
-          "title": "James Fahye - Part 2",
-          "text": "<span style=\"font-size:12.0pt;line-height:107%;\nfont-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:\nArial;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;\nmso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;\nmso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\">This\nallows the viewer to appreciate the purely aesthetic qualities of these\nstructures, which we see every day but perhaps don’t contemplate. Highways,\noverpasses and earthworks may not represent anything to the casual observer,\nbut I see them as awe-inspiring sculptures rising and falling throughout the\nlandscape. Using the highway system to travel throughout the state has become a\nphysical representation of self-discovery about myself and the world in which I\ndwell.&nbsp;</span>"
-        },
-        {
-          "yaw": 0.3172540902278307,
-          "pitch": 0.1544546231073447,
+          "yaw": 0.42150046561329013,
+          "pitch": 0.13538811929664618,
           "title": "I-10 WB / Exit 361-US 17 South, Roosevelt Blvd. 11:03 AM",
-          "text": "Acrylic on wood panel"
+          "text": "Acrylic on wood Panel"
+        },
+        {
+          "yaw": -0.4841439250531856,
+          "pitch": -0.1865031041118428,
+          "title": "James Fahye",
+          "text": "In my work I seek to reveal the unique elements of Jacksonville’s highway infrastructure in their purest form, separated from their various social and economic connotations. Through painting, I seek to draw attention to the objects themselves instead of just contemplating their functional purpose. This allows the viewer to appreciate the purely aesthetic qualities of these structures, which we see every day but perhaps don’t contemplate. Highways, overpasses and earthworks may not represent anything to the casual observer, but I see them as awe-inspiring sculptures rising and falling throughout the landscape. Using the highway system to travel throughout the state has become a physical representation of self-discovery about myself and the world in which I dwell.&nbsp;"
         }
       ]
     },
@@ -200,22 +194,22 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.6637828591231685,
+        "pitch": 0.2208749110896946,
+        "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": 1.6296195580107256,
-          "pitch": 0.4776548434526493,
-          "rotation": 0,
-          "target": "4-pop05-final"
-        },
-        {
-          "yaw": -1.4122495921678215,
-          "pitch": 0.4767407386336924,
+          "yaw": -1.436106406088065,
+          "pitch": 0.44580178298877726,
           "rotation": 0,
           "target": "2-pop03-final"
+        },
+        {
+          "yaw": 1.6552862453651098,
+          "pitch": 0.39584476681470626,
+          "rotation": 0,
+          "target": "4-pop05-final"
         }
       ],
       "infoHotspots": []
@@ -244,54 +238,54 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "yaw": 1.5162236618798106,
-        "pitch": 0.29264999156250937,
+        "yaw": 1.6076319821068878,
+        "pitch": 0.1619097394829474,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": -1.5291145275922151,
-          "pitch": 0.4356660391833671,
-          "rotation": 0,
-          "target": "3-pop04-final"
-        },
-        {
-          "yaw": 1.513792240900881,
-          "pitch": 0.44468633568715177,
+          "yaw": 1.4486158670351834,
+          "pitch": 0.45238755823088184,
           "rotation": 0,
           "target": "5-pop06-final"
         },
         {
-          "yaw": -2.7239459840762397,
-          "pitch": 0.41570832451505524,
+          "yaw": -2.7322070852428997,
+          "pitch": 0.4334189423169654,
           "rotation": 0,
           "target": "22-pop23-final"
+        },
+        {
+          "yaw": -1.6190193408213638,
+          "pitch": 0.4238915601000812,
+          "rotation": 0,
+          "target": "3-pop04-final"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -1.0947015082774936,
-          "pitch": -0.25843824913373936,
-          "title": "Keith Doles - Part 1",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%\">Keith Doles\nis a Jacksonville native who graduated from the University of North Florida\nwith a Bachelor of Fine Arts degree in Graphic Design in 2001. In 2005, he\nearned a Master of Arts degree in Business from Webster University where he\nlearned how to finance painting commissions and graphic design projects. It\ndidn’t help him land a job in the corporate world, but it was useful when Doles\nbegan painting portraits for professional athletes, friends and family members.\nHis influences include the fractured spaces of Cubism and the expressive color\nof Expressionism.<o:p></o:p></span></p>"
+          "yaw": 2.4085847689884083,
+          "pitch": 0.045811623663556844,
+          "title": "Ainsling Millar McDonald",
+          "text": "These cardboard cutouts are presented to bring attention to the diversity of people within our community that is affected by poverty. This portion of our community often goes unnoticed by the larger society. Through this work, the class hopes to both visually and emotionally connect the viewers to those less fortunate and to provide information on the subject.&nbsp; These works were created by Aisling Millar McDonalds 2-D Design students at the University of North Florida."
         },
         {
-          "yaw": -0.024556203359795248,
-          "pitch": -0.5189521540130002,
-          "title": "Keith Doles - Part 2",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%\">Doles’ work\nhas been featured in regional galleries including the Ritz Theatre &amp; Museum,\nMOCA Jacksonville’s Lab Gallery, The Cummer Museum of Art &amp; Gardens, The Haskell\nGallery at The Jacksonville International Airport and the Morean Arts Center in\nSt. Petersburg FL. He continues to design for clients across the country and\ndisplays his artwork in galleries in Northeast Florida. His work can be found\nin private collections and public institutions.&nbsp;<o:p></o:p></span></p>"
+          "yaw": -0.6424590279033282,
+          "pitch": -0.2416207512844526,
+          "title": "Keith Doles",
+          "text": "<p class=\"MsoNormal\"><i><span style=\"font-size:12.0pt;line-height:107%\">Street Series</span></i><span style=\"font-size:12.0pt;line-height:107%\"> was inspired by the works of Paul\nCezanne, Ernst Kirchner, and the Harlem Renaissance of the early 20th century.\nKirchner’s street paintings of Berlin featured jagged figures against distorted\ncity scenes in harsh colors symbolizing the despair that preceded World War I.\nMy city scenes are adapted from this concept, but I choose to convey more\nharmonious hues with contrasting images of urban life. Early subjects feature\nchildhood memories and compositions based on photographs of my ancestors.\nCertain paintings feature collage elements of supporting themes anchored within\nthe backgrounds. Concepts range from illustrating the effects of the digital\nage, and the growing economic inequality in America. Some pieces reflect the Jacksonville\nart community’s influence on downtown living while others reflect my own\njourney as an artist.&nbsp;<o:p></o:p></span></p>"
         },
         {
-          "yaw": 0.059280107571368035,
-          "pitch": 0.04311509195726515,
+          "yaw": 0.0560982950753921,
+          "pitch": 0.10579034003431964,
           "title": "Park",
           "text": "Mixed media on canvas"
         },
         {
-          "yaw": 2.442703501391321,
-          "pitch": 0.05256456696532119,
-          "title": "Aisling Millar McDonald&nbsp;",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%\">These\ncardboard cutouts are presented to bring attention to the diversity of people\nwithin our community that is affected by poverty. This portion of our community\noften goes unnoticed by the larger society. Through this work, the class hopes\nto both visually and emotionally connect the viewers to those less fortunate\nand to provide information on the subject.&nbsp; These works were created by\nAisling Millar McDonalds 2-D Design students at the University of North\nFlorida.<o:p></o:p></span></p>"
+          "yaw": -0.6872628161326801,
+          "pitch": 0.2067113070422888,
+          "title": "Keith Doles - Bio",
+          "text": "<div>Keith Doles is a Jacksonville native who graduated from the University of North Florida with a Bachelor of Fine Arts degree in Graphic Design in 2001. In 2005, he earned a Master of Arts degree in Business from Webster University where he learned how to finance painting commissions and graphic design projects. It didn’t help him land a job in the corporate world, but it was useful when Doles began painting portraits for professional athletes, friends and family members. His influences include the fractured spaces of Cubism and the expressive color of Expressionism.</div><div>Doles’ work has been featured in regional galleries including the Ritz Theatre &amp; Museum, MOCA Jacksonville’s Lab Gallery, The Cummer Museum of Art &amp; Gardens, The Haskell Gallery at The Jacksonville International Airport and the Morean Arts Center in St. Petersburg FL. He continues to design for clients across the country and displays his artwork in galleries in Northeast Florida. His work can be found in private collections and public institutions.</div>"
         }
       ]
     },
@@ -319,22 +313,22 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "yaw": 2.358639138515704,
-        "pitch": 0.14222757322749224,
+        "yaw": 2.5461345437238876,
+        "pitch": 0.13791810347702693,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": -1.5229628019619597,
-          "pitch": 0.3628103642173688,
-          "rotation": 0,
-          "target": "4-pop05-final"
-        },
-        {
-          "yaw": -3.0086893010134776,
-          "pitch": 0.4952355901786625,
+          "yaw": -3.1260141856238626,
+          "pitch": 0.36951221990004157,
           "rotation": 0,
           "target": "6-pop07-final"
+        },
+        {
+          "yaw": -1.4107442661614158,
+          "pitch": 0.40844271342144367,
+          "rotation": 0,
+          "target": "4-pop05-final"
         }
       ],
       "infoHotspots": []
@@ -363,20 +357,20 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "yaw": 3.004775856572211,
-        "pitch": 0.20463245585794354,
+        "yaw": 3.0550397473063917,
+        "pitch": 0.17121489692450353,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": 0.010740773850088203,
-          "pitch": 0.4429732966666542,
+          "yaw": -0.14156490503464525,
+          "pitch": 0.4101015153356986,
           "rotation": 0,
           "target": "5-pop06-final"
         },
         {
-          "yaw": 3.004775753738808,
-          "pitch": 0.36317245140638477,
+          "yaw": 3.0386562175793816,
+          "pitch": 0.3833229471813393,
           "rotation": 0,
           "target": "7-pop08-final"
         }
@@ -407,26 +401,20 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "yaw": 1.6302526680280192,
-        "pitch": 0.23652281416644882,
+        "yaw": 1.5310550269449719,
+        "pitch": 0.04463124854929035,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": -1.5991399205810772,
-          "pitch": 0.37075315496240435,
-          "rotation": 0,
-          "target": "6-pop07-final"
-        },
-        {
-          "yaw": 1.3938692936528856,
-          "pitch": 0.3999667730072467,
+          "yaw": 1.5063198621396197,
+          "pitch": 0.30081130694826363,
           "rotation": 0,
           "target": "8-pop09-final"
         },
         {
-          "yaw": 3.078076802150491,
-          "pitch": 0.2855005500944827,
+          "yaw": 3.0508932780339606,
+          "pitch": 0.3408875748940705,
           "rotation": 0,
           "target": "21-pop22-final"
         }
@@ -457,36 +445,36 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "yaw": 1.858729114451192,
-        "pitch": 0.13983728645182936,
+        "yaw": 1.8816614106207084,
+        "pitch": 0.15659672166244576,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": 1.8374596228035651,
-          "pitch": 0.48899031088989275,
+          "yaw": 1.8051793648551353,
+          "pitch": 0.3550290741752633,
           "rotation": 0,
           "target": "9-pop10-final"
         },
         {
-          "yaw": -1.3550426000530997,
-          "pitch": 0.40058049050428757,
+          "yaw": -1.2833502086111572,
+          "pitch": 0.4771925466035647,
           "rotation": 0,
           "target": "7-pop08-final"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -2.4671551354322574,
-          "pitch": 0.0934867978399101,
+          "yaw": -2.463490670216954,
+          "pitch": 0.1280016267906614,
           "title": "Mother and Child",
-          "text": "Digital print"
+          "text": "Digital Print"
         },
         {
-          "yaw": 3.0388075408281328,
-          "pitch": -0.38031714325119026,
+          "yaw": 3.0021048231358503,
+          "pitch": -0.14395584188815924,
           "title": "Heidi Erickson",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%\">The photos I\ncontribute to this exhibition were all taken in Jacksonville, Florida and reveal\nthe circumstances of the most impoverished people in our city and the efforts\nof those offering them basic needs and support.<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%\">With my\nwork, I intend to help viewers understand that poverty is not just a matter of\nlacking physical needs; an impoverishment of the spirit lies at the heart of\nthe matter. <o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%\">Currently\nthere are close to 2000 chronically homeless individuals in Jacksonville.\nThrough my photography, I seek to motivate viewers to donate their time and\nserve this community through one of its many homeless shelters.&nbsp;<o:p></o:p></span></p>"
+          "text": "<div>The photos I contribute to this exhibition were all taken in Jacksonville, Florida and reveal the circumstances of the most impoverished people in our city and the efforts of those offering them basic needs and support.</div><div>With my work, I intend to help viewers understand that poverty is not just a matter of lacking physical needs; an impoverishment of the spirit lies at the heart of the matter.&nbsp;</div><div>Currently there are close to 2000 chronically homeless individuals in Jacksonville. Through my photography, I seek to motivate viewers to donate their time and serve this community through one of its many homeless shelters.</div>"
         }
       ]
     },
@@ -514,22 +502,28 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "yaw": -2.4389420237568,
-        "pitch": 0.1479529195805238,
+        "yaw": -1.6451816558889902,
+        "pitch": 0.2975502550183009,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": -0.04523522472850949,
-          "pitch": 0.3539919004726766,
+          "yaw": -0.10379426822387217,
+          "pitch": 0.25997392405894004,
           "rotation": 0,
           "target": "8-pop09-final"
         },
         {
-          "yaw": -1.690387690388743,
-          "pitch": 0.43356513899053617,
+          "yaw": -1.5763929026509818,
+          "pitch": 0.3138649517191414,
           "rotation": 0,
           "target": "10-pop11-final"
+        },
+        {
+          "yaw": 1.3187828049933632,
+          "pitch": 0.33310734787660046,
+          "rotation": 0,
+          "target": "34-pop35-final"
         }
       ],
       "infoHotspots": []
@@ -558,35 +552,35 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "yaw": 1.6550518220084172,
-        "pitch": 0.14329942459985645,
+        "yaw": 1.6368277283564936,
+        "pitch": 0.08560913717420071,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": -1.5868660634258482,
-          "pitch": 0.54011951796704345,
-          "rotation": 0,
-          "target": "23-pop24-final"
-        },
-        {
-          "yaw": 1.5525397947509836,
-          "pitch": 0.2700314031066551,
+          "yaw": 1.6368277553968857,
+          "pitch": 0.23330468790656234,
           "rotation": 0,
           "target": "11-pop12-final"
         },
         {
-          "yaw": -1.4798940285941065,
-          "pitch": 0.36815180303199924,
+          "yaw": -3.103148027323348,
+          "pitch": 0.32168150036199705,
+          "rotation": 0,
+          "target": "23-pop24-final"
+        },
+        {
+          "yaw": -1.5175425709194315,
+          "pitch": 0.32880539474205506,
           "rotation": 0,
           "target": "9-pop10-final"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -0.44663896460366814,
-          "pitch": -0.32691692281570894,
-          "title": "The Perspective (Alexis Haggerty, Arjun Luke, and Allan Pimenta",
+          "yaw": -0.28225305868989814,
+          "pitch": -0.17451566115698824,
+          "title": "<p class=\"MsoNormal\"><b><i><span style=\"font-size:12.0pt;line-height:107%\">The Perspective <o:p></o:p></span></i></b></p>\n\n<p class=\"MsoNormal\"><b><span style=\"font-size:12.0pt;line-height:107%\">(Alexis Haggerty, Arjun Luke and\nAllan Pimenta)<o:p></o:p></span></b></p>",
           "text": "<p class=\"MsoNormal\" style=\"line-height:115%\"><i><span style=\"font-size:12.0pt;\nline-height:115%;mso-ascii-font-family:Arial;mso-ascii-theme-font:major-latin;\nmso-fareast-font-family:Gadugi;mso-hansi-font-family:Arial;mso-hansi-theme-font:\nmajor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:major-latin\">The\nPerspective</span></i><span style=\"font-size:12.0pt;line-height:115%;\nmso-ascii-font-family:Arial;mso-ascii-theme-font:major-latin;mso-fareast-font-family:\nGadugi;mso-hansi-font-family:Arial;mso-hansi-theme-font:major-latin;mso-bidi-font-family:\nArial;mso-bidi-theme-font:major-latin\"> is an art collective dedicated to\ndocumenting the life experience of people from a variety of backgrounds. By\nilluminating their perspectives, we narrate their stories, and heal the damage\ncaused by economic inequality, prejudice, and ambivalence. We hail from the\ncity of Jacksonville, Florida, the city of Norfolk, Virginia, the state of New\nJersey, and Kerala, India. Looking beyond your own boot soles is what provides\nthe empathy that will mend what’s been hurting.<o:p></o:p></span></p>"
         }
       ]
@@ -615,28 +609,28 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "yaw": 1.5565276547694316,
-        "pitch": 0.2506466313594906,
+        "yaw": 1.636628749622842,
+        "pitch": 0.10136988974278971,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": -1.5952461857528135,
-          "pitch": 0.2984176054203207,
-          "rotation": 0,
-          "target": "10-pop11-final"
-        },
-        {
-          "yaw": 1.5214609157917813,
-          "pitch": 0.3280235043554711,
+          "yaw": 1.5212677358266458,
+          "pitch": 0.27114746497944076,
           "rotation": 0,
           "target": "12-pop13-final"
         },
         {
-          "yaw": 2.809494102379113,
-          "pitch": 0.382580639429543,
+          "yaw": 2.8716432906467437,
+          "pitch": 0.33248387979167227,
           "rotation": 0,
           "target": "20-pop21-final"
+        },
+        {
+          "yaw": -1.5776213016374445,
+          "pitch": 0.3827316688433484,
+          "rotation": 0,
+          "target": "10-pop11-final"
         }
       ],
       "infoHotspots": []
@@ -665,22 +659,22 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "yaw": 1.2112166072163415,
-        "pitch": 0.33762441437588464,
+        "yaw": 1.2418688908421203,
+        "pitch": 0.1079398263219673,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": -1.5238666470859243,
-          "pitch": 0.512608760867586,
-          "rotation": 0,
-          "target": "11-pop12-final"
-        },
-        {
-          "yaw": 1.3996589584990264,
-          "pitch": 0.4369244454402388,
+          "yaw": 1.3671168590726683,
+          "pitch": 0.3261728866431337,
           "rotation": 0,
           "target": "13-pop14-final"
+        },
+        {
+          "yaw": -1.5987281648400966,
+          "pitch": 0.40801291019855057,
+          "rotation": 0,
+          "target": "11-pop12-final"
         }
       ],
       "infoHotspots": []
@@ -715,26 +709,26 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.6656638995483064,
-          "pitch": 0.29576750412067554,
-          "rotation": 0,
-          "target": "12-pop13-final"
-        },
-        {
-          "yaw": -0.40838487759573106,
-          "pitch": 0.26462546173561563,
+          "yaw": -0.3629017986792924,
+          "pitch": 0.24023191410342548,
           "rotation": 0,
           "target": "14-pop15-final"
         },
         {
-          "yaw": 0.40748692871579095,
-          "pitch": 0.2789459004763444,
+          "yaw": 0.32950280134880217,
+          "pitch": 0.24105101620485314,
           "rotation": 0,
           "target": "15-pop16-final"
         },
         {
-          "yaw": -2.84168098547671,
-          "pitch": 0.2609529663694019,
+          "yaw": -1.7253033504049675,
+          "pitch": 0.26737969172509146,
+          "rotation": 0,
+          "target": "12-pop13-final"
+        },
+        {
+          "yaw": -2.6851510573525825,
+          "pitch": 0.24521065553431143,
           "rotation": 0,
           "target": "16-pop17-final"
         }
@@ -771,16 +765,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -3.1156918914912346,
-          "pitch": 0.3407166584516119,
-          "rotation": 0,
-          "target": "13-pop14-final"
-        },
-        {
-          "yaw": 1.4668239798657172,
-          "pitch": 0.35999187955374445,
+          "yaw": 1.4227494381910581,
+          "pitch": 0.3635152230802845,
           "rotation": 0,
           "target": "15-pop16-final"
+        },
+        {
+          "yaw": 3.0521343644912973,
+          "pitch": 0.37934414155366625,
+          "rotation": 0,
+          "target": "13-pop14-final"
         }
       ],
       "infoHotspots": []
@@ -815,16 +809,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.7628117470540339,
-          "pitch": 0.3736695455497685,
-          "rotation": 0,
-          "target": "14-pop15-final"
-        },
-        {
-          "yaw": -2.970205358539314,
-          "pitch": 0.3696348875811406,
+          "yaw": -2.9337285245432234,
+          "pitch": 0.32915325130588435,
           "rotation": 0,
           "target": "13-pop14-final"
+        },
+        {
+          "yaw": -1.7303579940731488,
+          "pitch": 0.3903425365297366,
+          "rotation": 0,
+          "target": "14-pop15-final"
         }
       ],
       "infoHotspots": []
@@ -853,28 +847,28 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "yaw": 1.5532469658796515,
-        "pitch": 0.128982605888055,
+        "yaw": 1.57019410458226,
+        "pitch": 0.00829027279741723,
         "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": -2.9833128658413024,
-          "pitch": 0.311291473255773,
+          "yaw": 1.5835541292988422,
+          "pitch": 0.3297917454788042,
+          "rotation": 0,
+          "target": "17-pop18-final"
+        },
+        {
+          "yaw": -2.902393057975111,
+          "pitch": 0.23627679030859028,
           "rotation": 0,
           "target": "13-pop14-final"
         },
         {
-          "yaw": 0.10179359159014467,
-          "pitch": 0.22162527782307428,
+          "yaw": 0.08729892675567008,
+          "pitch": 0.30988004801217706,
           "rotation": 0,
           "target": "1-pop02-final"
-        },
-        {
-          "yaw": 1.553246972940812,
-          "pitch": 0.34749479517816795,
-          "rotation": 0,
-          "target": "17-pop18-final"
         }
       ],
       "infoHotspots": []
@@ -903,22 +897,22 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.7473022528073763,
+        "pitch": 0.3070701955711286,
+        "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": -1.4651297575753883,
-          "pitch": 0.47546672566267745,
-          "rotation": 0,
-          "target": "16-pop17-final"
-        },
-        {
-          "yaw": 1.5874573621214836,
-          "pitch": 0.38298099556254783,
+          "yaw": 1.731350911797458,
+          "pitch": 0.3675586261538015,
           "rotation": 0,
           "target": "18-pop19-final"
+        },
+        {
+          "yaw": -1.429545217987977,
+          "pitch": 0.45821876322554544,
+          "rotation": 0,
+          "target": "16-pop17-final"
         }
       ],
       "infoHotspots": []
@@ -953,26 +947,26 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.1405792143809759,
-          "pitch": 0.47505271291305995,
-          "rotation": 0,
-          "target": "17-pop18-final"
-        },
-        {
-          "yaw": 0.4206247334789168,
-          "pitch": 0.24711945884887143,
+          "yaw": 0.4523040547659214,
+          "pitch": 0.3140345800391078,
           "rotation": 0,
           "target": "19-pop20-final"
         },
         {
-          "yaw": -2.6519654315932097,
-          "pitch": 0.38386636692303533,
+          "yaw": -1.0937665467764397,
+          "pitch": 0.25351971926686545,
+          "rotation": 0,
+          "target": "17-pop18-final"
+        },
+        {
+          "yaw": -2.627021447542244,
+          "pitch": 0.2800310028806585,
           "rotation": 0,
           "target": "20-pop21-final"
         },
         {
-          "yaw": 2.0474997108329216,
-          "pitch": 0.3356003845694744,
+          "yaw": 2.038186259623819,
+          "pitch": 0.2775499503398713,
           "rotation": 0,
           "target": "21-pop22-final"
         }
@@ -1009,16 +1003,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.6952174694730529,
-          "pitch": 0.47085079874597824,
-          "rotation": 0,
-          "target": "2-pop03-final"
-        },
-        {
-          "yaw": -1.2036435759242856,
-          "pitch": 0.4263067247360528,
+          "yaw": -1.3435344563164868,
+          "pitch": 0.4038319330012108,
           "rotation": 0,
           "target": "18-pop19-final"
+        },
+        {
+          "yaw": 1.7758417085612184,
+          "pitch": 0.4605674248755989,
+          "rotation": 0,
+          "target": "2-pop03-final"
         }
       ],
       "infoHotspots": []
@@ -1053,42 +1047,30 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.490108225588635,
-          "pitch": 0.433595732744978,
+          "yaw": -1.4790343280705933,
+          "pitch": 0.29906779993629584,
           "rotation": 0,
           "target": "18-pop19-final"
         },
         {
-          "yaw": 1.247006234972634,
-          "pitch": 0.372638067104031,
+          "yaw": 1.6978602910027814,
+          "pitch": 0.2590307855874361,
           "rotation": 0,
           "target": "11-pop12-final"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -2.771241833757312,
-          "pitch": 0.08077268977480045,
+          "yaw": -2.7782536795821784,
+          "pitch": 0.08189372579926157,
           "title": "It's going to be gone soon",
           "text": "Oil paint on wood panel"
         },
         {
-          "yaw": 2.828571355892703,
-          "pitch": -0.3853178530956214,
-          "title": "Kelly Crabtree - Part 1",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%\">I explore secret\nmeanings of time and memory through my work. I use oil paint to depict changes\nin our memories over time. I focus specifically on how traumatic events can cause\ndisruptions in our memory including blurred images, skewed perception, and blank\nspaces. To capture the nature of these disruptions, I use blocks of color to\nrepresent the objects I depict. Items of greater importance are more clearly\ndefined with detail and vibrancy. Other details fall away into abstraction.<o:p></o:p></span></p>"
-        },
-        {
-          "yaw": 2.8304085155797996,
-          "pitch": -0.24833535350490443,
-          "title": "Kelly Crabtree - Part 2",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%\">The shattered\nbuildings and structures I paint represent the human trauma caused by natural\ndisasters. The lack of human figures in my work testifies to the human cost\nendured by the structures. The titles of my paintings also make evident the\nhuman characteristics of the destroyed buildings.<o:p></o:p></span></p>"
-        },
-        {
-          "yaw": 2.827330099877452,
-          "pitch": -0.10330264541711642,
-          "title": "Kelly Crabtree - Part 3",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%\">My color\npalette consists of muted hues, spots of vibrant color, and most notably an\nintense use of pink. The muted hues are used to express the fading of memories.\nVibrant colors draw attention to points of interest in the scene. The pink color\nfound in the sky and hinted at throughout the composition engenders a tension\nbetween the hopeful and the threatening.<o:p></o:p></span></p>"
+          "yaw": 2.831147527279775,
+          "pitch": -0.177894896990491,
+          "title": "Kelly Crabtree",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%\">I explore secret\nmeanings of time and memory through my work. I use oil paint to depict changes\nin our memories over time. I focus specifically on how traumatic events can cause\ndisruptions in our memory including blurred images, skewed perception, and blank\nspaces. To capture the nature of these disruptions, I use blocks of color to\nrepresent the objects I depict. Items of greater importance are more clearly\ndefined with detail and vibrancy. Other details fall away into abstraction.<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%\">The shattered\nbuildings and structures I paint represent the human trauma caused by natural\ndisasters. The lack of human figures in my work testifies to the human cost\nendured by the structures. The titles of my paintings also make evident the\nhuman characteristics of the destroyed buildings.<o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%\">My color\npalette consists of muted hues, spots of vibrant color, and most notably an\nintense use of pink. The muted hues are used to express the fading of memories.\nVibrant colors draw attention to points of interest in the scene. The pink color\nfound in the sky and hinted at throughout the composition engenders a tension\nbetween the hopeful and the threatening.<o:p></o:p></span></p>"
         }
       ]
     },
@@ -1116,32 +1098,26 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.687425132015779,
+        "pitch": 0.11437694607761273,
+        "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": -1.4730046298259278,
-          "pitch": 0.3549162183364274,
-          "rotation": 0,
-          "target": "18-pop19-final"
-        },
-        {
-          "yaw": 0.18026212180710566,
-          "pitch": 0.3533330541983233,
+          "yaw": 0.1147061128353144,
+          "pitch": 0.33840333713309967,
           "rotation": 0,
           "target": "22-pop23-final"
         },
         {
-          "yaw": 1.6665820226988037,
-          "pitch": 0.20020181175884133,
+          "yaw": 1.6828734494282278,
+          "pitch": 0.26858058785535377,
           "rotation": 0,
           "target": "7-pop08-final"
         },
         {
-          "yaw": -3.032694612291401,
-          "pitch": 0.2942597928474555,
+          "yaw": -3.007830662298037,
+          "pitch": 0.3821840551010318,
           "rotation": 0,
           "target": "23-pop24-final"
         }
@@ -1178,16 +1154,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.614866624030448,
-          "pitch": 0.3361813244236931,
-          "rotation": 0,
-          "target": "21-pop22-final"
-        },
-        {
-          "yaw": 1.5257177151659116,
-          "pitch": 0.42460898708933215,
+          "yaw": 1.56018517579101,
+          "pitch": 0.4043937681211549,
           "rotation": 0,
           "target": "4-pop05-final"
+        },
+        {
+          "yaw": -1.6343149497735716,
+          "pitch": 0.37922306824997953,
+          "rotation": 0,
+          "target": "21-pop22-final"
         }
       ],
       "infoHotspots": []
@@ -1222,14 +1198,14 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.5868660634258482,
-          "pitch": 0.24011951796704345,
+          "yaw": -1.54874232731418,
+          "pitch": 0.23699080023892627,
           "rotation": 0,
           "target": "21-pop22-final"
         },
         {
-          "yaw": 1.582002791179696,
-          "pitch": 0.34142444430043106,
+          "yaw": 1.6452101787496103,
+          "pitch": 0.2586577759989055,
           "rotation": 0,
           "target": "10-pop11-final"
         }
@@ -1266,22 +1242,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.8466042391852717,
-          "pitch": 0.20589707802919932,
-          "rotation": 0,
-          "target": "30-pop31-final"
-        },
-        {
-          "yaw": -0.07413421966828793,
-          "pitch": 0.16852748234835246,
+          "yaw": -0.004441126853475197,
+          "pitch": 0.256264575370416,
           "rotation": 0,
           "target": "25-pop26-final"
+        },
+        {
+          "yaw": -1.8254851980868434,
+          "pitch": 0.27662123811256123,
+          "rotation": 0,
+          "target": "30-pop31-final"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -1.8371374790832036,
-          "pitch": -0.023638319961150955,
+          "yaw": -1.8335788983146948,
+          "pitch": 0.010323167024479218,
           "title": "Second Floor",
           "text": "Go down to the second floor"
         }
@@ -1317,16 +1293,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.5300565871786613,
-          "pitch": 0.22882952942643442,
-          "rotation": 0,
-          "target": "24-pop25-final"
-        },
-        {
-          "yaw": -0.7093364908062405,
-          "pitch": 0.2769405572597172,
+          "yaw": -0.6802658505736261,
+          "pitch": 0.3450230209166669,
           "rotation": 0,
           "target": "26-pop27-final"
+        },
+        {
+          "yaw": 1.527709641733428,
+          "pitch": 0.28146714562425146,
+          "rotation": 0,
+          "target": "24-pop25-final"
         }
       ],
       "infoHotspots": []
@@ -1355,22 +1331,22 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.1868238913561573,
+        "pitch": 0.016749283394791092,
+        "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": -1.498050880984831,
-          "pitch": 0.30043858088973074,
-          "rotation": 0,
-          "target": "25-pop26-final"
-        },
-        {
-          "yaw": 0.5621078627626819,
-          "pitch": 0.16662057085357418,
+          "yaw": 0.5414511548370697,
+          "pitch": 0.15626321212657146,
           "rotation": 0,
           "target": "27-pop28-final"
+        },
+        {
+          "yaw": -1.4796940305161908,
+          "pitch": 0.2665934077438745,
+          "rotation": 0,
+          "target": "25-pop26-final"
         }
       ],
       "infoHotspots": []
@@ -1399,38 +1375,25 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -2.992410438340144,
+        "pitch": 0.048824708458015564,
+        "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": -1.4025578253773876,
-          "pitch": 0.3850444936795867,
+          "yaw": -1.471254079775207,
+          "pitch": 0.3433021919643693,
           "rotation": 0,
           "target": "26-pop27-final"
         },
         {
-          "yaw": 1.7746706278687139,
-          "pitch": 0.2376401005174369,
+          "yaw": 1.78773449186213,
+          "pitch": 0.2738939847860422,
           "rotation": 0,
           "target": "28-pop29-final"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": 2.3349992316512367,
-          "pitch": -0.4832940391543019,
-          "title": "Keith Doles - Part 1",
-          "text": "<p class=\"MsoNormal\"><i><span style=\"font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;\nmso-ascii-theme-font:minor-latin;mso-fareast-font-family:Arial;mso-fareast-theme-font:\nminor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\">Street Series</span></i><span style=\"font-size:\n12.0pt;line-height:107%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-ascii-theme-font:\nminor-latin;mso-fareast-font-family:Arial;mso-fareast-theme-font:minor-latin;\nmso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;\nmso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:\nEN-US;mso-bidi-language:AR-SA\"> was inspired by the works of Paul Cezanne,\nErnst Kirchner, and the Harlem Renaissance of the early 20th century.\nKirchner’s street paintings of Berlin featured jagged figures against distorted\ncity scenes in harsh colors symbolizing the despair that preceded World War I.</span><br></p>"
-        },
-        {
-          "yaw": -2.4623144856364263,
-          "pitch": -0.6963788844768004,
-          "title": "Keith Doles - Part 2",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%\">My city\nscenes are adapted from this concept, but I choose to convey more harmonious hues\nwith contrasting images of urban life. Early subjects feature childhood\nmemories and compositions based on photographs of my ancestors. Certain paintings\nfeature collage elements of supporting themes anchored within the backgrounds.\nConcepts range from illustrating the effects of the digital age, and the growing\neconomic inequality in America. Some pieces reflect the Jacksonville art community’s\ninfluence on downtown living while others reflect my own journey as an artist.&nbsp;<o:p></o:p></span></p>"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "28-pop29-final",
@@ -1462,16 +1425,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.2768053327354494,
-          "pitch": 0.36749945379499493,
-          "rotation": 0,
-          "target": "27-pop28-final"
-        },
-        {
-          "yaw": 0.5981958955794457,
-          "pitch": 0.27706258797054595,
+          "yaw": 0.5322564366234523,
+          "pitch": 0.262920575466735,
           "rotation": 0,
           "target": "29-pop30-final"
+        },
+        {
+          "yaw": -1.3384414636069728,
+          "pitch": 0.28314866380825165,
+          "rotation": 0,
+          "target": "27-pop28-final"
         }
       ],
       "infoHotspots": []
@@ -1504,14 +1467,7 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [
-        {
-          "yaw": 0.8931831099479925,
-          "pitch": 0.3228101586462344,
-          "rotation": 0,
-          "target": "28-pop29-final"
-        }
-      ],
+      "linkHotspots": [],
       "infoHotspots": []
     },
     {
@@ -1544,34 +1500,34 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.9709933703603291,
-          "pitch": 0.1812073786327506,
-          "rotation": 0,
-          "target": "0-pop01-final"
-        },
-        {
-          "yaw": 0.1540303704805801,
-          "pitch": 0.2480640206129543,
+          "yaw": 0.09959545332068487,
+          "pitch": 0.21746329926710573,
           "rotation": 0,
           "target": "31-pop32-final"
         },
         {
-          "yaw": -1.8951290742890166,
-          "pitch": 0.004951152204611731,
+          "yaw": -1.0375826230281326,
+          "pitch": 0.18471423259995845,
+          "rotation": 0,
+          "target": "0-pop01-final"
+        },
+        {
+          "yaw": -1.8401889803820275,
+          "pitch": 0.07707607405799521,
           "rotation": 0,
           "target": "24-pop25-final"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -1.0740676893607741,
-          "pitch": -0.0007513571822563847,
+          "yaw": -1.0819580204154757,
+          "pitch": 0.014408467146964199,
           "title": "First Floor",
           "text": "Main Exhibit in the MakerSpace"
         },
         {
-          "yaw": -1.9284407835454473,
-          "pitch": -0.1718267821682815,
+          "yaw": -1.9152991544000066,
+          "pitch": -0.08046557948757815,
           "title": "Third Floor",
           "text": "Continue upstairs for more."
         }
@@ -1607,26 +1563,19 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.3745246571436702,
-          "pitch": 0.27008764971906807,
+          "yaw": -1.2880157335136087,
+          "pitch": 0.3595586881900932,
           "rotation": 0,
           "target": "30-pop31-final"
         },
         {
-          "yaw": 1.744609086735994,
-          "pitch": 0.3376438872291825,
+          "yaw": 1.6615654738258137,
+          "pitch": 0.3132963507511217,
           "rotation": 0,
           "target": "32-pop33-final"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -2.4980198586446285,
-          "pitch": -0.16063873673634177,
-          "title": "Jax by Jax",
-          "text": "Jax by Jax is partnering with the Main Public Library to host their annual Literary Arts Festival."
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "32-pop33-final",
@@ -1652,22 +1601,22 @@ var APP_DATA = {
       ],
       "faceSize": 1415,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.5978605667820407,
+        "pitch": 0.16455150635196958,
+        "fov": 1.3715802068843215
       },
       "linkHotspots": [
         {
-          "yaw": -1.464343139710234,
-          "pitch": 0.3665566200780752,
-          "rotation": 0,
-          "target": "31-pop32-final"
-        },
-        {
-          "yaw": 1.3955230184186362,
-          "pitch": 0.15579925059308763,
+          "yaw": 1.5136846209672328,
+          "pitch": 0.24129145915859418,
           "rotation": 0,
           "target": "33-pop34-final"
+        },
+        {
+          "yaw": -1.6008015977279815,
+          "pitch": 0.366495338105171,
+          "rotation": 0,
+          "target": "31-pop32-final"
         }
       ],
       "infoHotspots": []
@@ -1702,19 +1651,57 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.2658358269184227,
-          "pitch": 0.3312435891971468,
+          "yaw": -1.2473325913065239,
+          "pitch": 0.4382341268547414,
           "rotation": 0,
           "target": "32-pop33-final"
         }
       ],
       "infoHotspots": []
+    },
+    {
+      "id": "34-pop35-final",
+      "name": "POP35-final",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1415,
+      "initialViewParameters": {
+        "yaw": 0.03222146311374274,
+        "pitch": 0.005583094464935101,
+        "fov": 1.3715802068843215
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.012580851276361216,
+          "pitch": 0.32506371415314383,
+          "rotation": 0,
+          "target": "9-pop10-final"
+        }
+      ],
+      "infoHotspots": []
     }
   ],
-  "name": "POP - Perceptions of Poverty Virtual Visit",
+  "name": "POP - Perceptions of Poverty Virtual Tour",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": true,
     "viewControlButtons": true
   }
